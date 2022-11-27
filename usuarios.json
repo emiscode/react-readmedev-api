@@ -8,6 +8,15 @@
       "endereco": "Rua dos Alfeneiros, 4",
       "complemento": "Jardim Privet",
       "cep": "04101-300"
+    },
+    {
+      "id": 8,
+      "email": "scodeler.emilio@gmail.com",
+      "senha": "111",
+      "nome": "Xemisco",
+      "endereco": "A",
+      "complemento": "B",
+      "cep": "1"
     }
   ]
 }
