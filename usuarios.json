@@ -1,0 +1,13 @@
+{
+  "usuarios": [
+    {
+      "id": 7,
+      "email": "emiscode@gmail.com",
+      "senha": "123456",
+      "nome": "Emilio Scodeler",
+      "endereco": "Rua dos Alfeneiros, 4",
+      "complemento": "Jardim Privet",
+      "cep": "04101-300"
+    }
+  ]
+}

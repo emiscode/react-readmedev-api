@@ -1,0 +1,21 @@
+### Register
+POST http://localhost:8000/public/registrar HTTP/1.1
+content-type: application/json
+
+{
+    "nome": "Emilio Scodeler",
+    "email": "emiscode@gmail.com",
+    "senha": "123456",
+    "endereco": "Rua dos Alfeneiros, 4",
+    "complemento": "Jardim Privet",
+    "cep": "04101-300"
+}
+
+### Login
+POST http://localhost:8000/public/login
+content-type: application/json
+
+{
+  "email": "emiscode@gmail.com",
+  "senha":"123456"
+}
