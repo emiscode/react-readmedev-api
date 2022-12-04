@@ -10,6 +10,6 @@ In the project directory, you can run:
 
 ### `npm i`
 
-### `npm start-auth`
+### `npm run start-auth`
 
 Check rest-client.http to test the API
